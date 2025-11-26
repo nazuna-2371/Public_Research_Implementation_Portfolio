@@ -281,7 +281,7 @@ It represents a step toward **Earth-OS XL**—a next-generation constitutional a
 # **Appendix: Integrity Metadata**
 
 ```text
-File_name: README.md
+File_name: 02_Hybrid_MI–Auditor_Architecture_with_Self-Integrity_and_Bicameral_Consensus_EN.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
@@ -292,7 +292,7 @@ License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512
 Primary_Hash: 089f32e7259485ae52e6fc56298319ad7f6d18d4558ae2d00fb9fc88023d0a5f032d42ad92d8d7424e597306b20c389ac9062f888e45d9247ac73b5eb5dd05d0
-Meta_Hash (of Primary Hash): 0f8e250f2f5f36d09ddd74cc159479a04f1ad9846027688ede9d79e62484266a1d72920af2d41347af435941f0318db3698f4f30d70ab269407a2769bbe2ab2d
+Meta_Hash (of Primary Hash): 8c42a25f687ba687b5894b1ec9e44c3fbb229bbf87db746199de9bf0d642d7a97c312c5e43404ab4ad6cd873e1e6bb083d0493ee32491d0c029efda69d7de409
 Integrity-Level: Dual-Hash Verification
 ```
 
