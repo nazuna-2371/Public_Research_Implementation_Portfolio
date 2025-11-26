@@ -252,7 +252,7 @@ LAM・SI・CIの三層があることで、
 ---
 
 ```text
-File_name: README.md
+File_name: 02_Hybrid_MI–Auditor_Architecture_with_Self-Integrity_and_Bicameral_Consensus_mini.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
@@ -263,6 +263,6 @@ Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
 Primary_Hash: 04be52143c2fdaf7112d40394010c8bab77ceabb955e2359abab92ad93cb97007d97aa14f492017f41a37e01fb31faca6b19091d99a5da9805d76236346deacc
-Meta_Hash (of Primary Hash): 25ef80193d2f5f942c7dbd3994a8b835eb51ba49c9a2f1f48b66925fea4412c9f252dcc51992cb14d847c83becdf855f426655b1254608c7c2f39a361d715afb
+Meta_Hash (of Primary Hash): 8fe02927435993db9663cefef3e9518f7e2d3ccf7a4a2854086c92790a5fdcd4278619c935fca68d3f196369b7d4dcf546759becec73f39a57c4f3bf0b55a06e
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
