@@ -256,7 +256,7 @@ Adaptive-Inference, Multi-Agent-Emulation
 ---
 
 ```text
-File_name: README.md
+File_name: Bonus: Mirror-Opposite Modes.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
@@ -267,7 +267,7 @@ License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512
 Primary_Hash: e25532482c0c22f7497dc5ba41a714641c17e76080e8091946ce3a587ea85855f57b567d4faac19d3cea6de830c6ccd7f129d38935a39c4bbf66a0990b4fbb0c
-Meta_Hash (of Primary Hash): 44f5ca820950b1ec8737369b3fa181e0676066cbfbaad45339a29ac5d7b56b7964269bdaae5d52dbedc87d2067e9614ca2015f73814c1891e3fdcbc16fb91320
+Meta_Hash (of Primary Hash): 24a2658d8482d2bae36e1ac405c0fe5683df98d8fb9f3cbb63a2fd612dcbe9f918098e82bbcacbed843a518ad015f8890b91ef552024987d0d2e6a0c93324bff
 Integrity-Level: Dual-Hash Verification
 ```
 
