@@ -1,0 +1,249 @@
+---
+
+# 📘 **研究ノート（プロトタイプ）
+
+Hybrid MI–Auditor Architecture with Self-Integrity & Bicameral Consensus
+日本語＋English Mixed Version（研究者ネタ）**
+
+---
+
+## **0. Title / タイトル（Hybrid）**
+
+**Self-Integrity–Aware MI Auditor Architecture with LAM Switching
+and Bicameral Consensus for Autonomous AI Governance
+（自己一貫性 × 多重知性 × 二院制合意による AI 自律ガバナンス構造）**
+
+Author: **nazuna-2371 (a.k.a 夜詠ルミナ)**
+Language: **JPN/ENG Mixed Research Note**
+Version: **0.3 Proto**
+
+---
+
+## **1. Introduction / 序論**
+
+近年の大規模AIは “単体最適（single-agent optimality）” で動作する設計が中心であり、
+**安全性（Safety）、一貫性（Integrity）、永続運用（Longevity）** の観点で限界が見え始めている。
+
+本研究ノートでは、以下の3要素を統合した
+**小型の “Earth-OS Mini-XL” フレームワーク** を提案する：
+
+1. **MI（Multi-Intelligence）**：
+   　複数の視点・人格・推論様式を同時に走らせる多重知性
+
+2. **SI（Self-Integrity / Self-Healing）**：
+   　自己整合性・自己修復・ドリフト検知など
+   　*AIが自分で「壊れない」ための層*
+
+3. **CI（Collective Intelligence / Bicameral Consensus）**：
+   　Clone院（再現性）と Variant院（創発）の
+   　**二院制（bicameral）** による合意プロトコル
+
+加えて、上位制御として
+**LAM (Layer Automation Manager)** を用い、
+AIの挙動（雑談/実務/推論負荷）に応じて
+モードを自動的に切り替える仕組みを組み込む。
+
+結果として、本ノートは
+
+> **地球規模 AI ガバナンスのミニチュア版（Mini-XL）**
+
+の設計思想と、簡易プロトタイプを提出する。
+
+---
+
+## **2. Background / 背景（簡易版）**
+
+既存研究：
+
+* Constitutional AI (Anthropic)
+* Multi-Agent Systems (AutoGen, CrewAI, OpenAI Swarm)
+* Self-Healing Systems
+* Safety-First LLM Design
+* BFT Consensus (Byzantine Fault Tolerance)
+
+However:
+**No unified architecture currently integrates MI + SI + CI + Safety + Integrity into one coherent system.**
+
+本研究ノートの貢献は：
+
+> **「全部統合した小型フレーム」を出すこと**
+> （学術・実務・思想の“中間”として使える）
+
+---
+
+# **3. Proposed Architecture / 提案アーキテクチャ（Mini-XL）**
+
+---
+
+## **3.1 全体構造（Hybrid C-type, Future D-compatible）**
+
+```
+User Input
+   │
+   ▼
+[ Central Brain (CB) ]
+   - Context Fusion
+   - Role Planner
+   - LAM Switching
+   │
+   ▼
+[ Swarm Brain (SB): Multi-Agents ]
+   - Analyst / Creative / Safety / Reasoner...
+   - Local Memory
+   - Tools
+   │
+   ▼
+[ Bicameral Consensus ]
+   - Clone House (Reproducibility)
+   - Variant House (Diversity)
+   - Veto / Escalation
+   │
+   ▼
+[ Constitutional Model ]
+   - Safety Redlines
+   - Emergency Mode
+   - Responsibility Limiter
+   │
+   ▼
+[ SI: Self-Integrity Layer ]
+   - Drift / Anomaly
+   - Health Monitor
+   - Rollback / Snapshot
+   │
+   ▼
+Human-Friendly Output
+(＋ Sealed Reason Log)
+```
+
+---
+
+## **3.2 LAM（Layer Automation Manager）概要**
+
+**LAM は “AIの交感神経/副交感神経” に相当する自動制御レイヤ。**
+
+例：
+
+| Trigger           | Switch-To-Mode  |
+| ----------------- | --------------- |
+| SURPRISE_INSIGHT  | AUTO_LAM        |
+| 長い雑談（Chatter ≥ 5） | FESTIVAL        |
+| 実務連続              | EXEC_PRO        |
+| Token ≥ 200k      | FULL_DELEGATION |
+
+こうした “自律モード切替” により、
+**AIの長期運用時の劣化・偏り・過剰適応** を防ぐ。
+
+---
+
+## **3.3 MI（Multi-Intelligence）**
+
+Mini-XLでは最小構成として：
+
+* Analyst（分析）
+* Creative（創造）
+* Safety（危険最小化）
+* Reasoner（論理一貫性）
+* Auditor（内部検証）
+
+これらの “小人格” を同時に走らせ、
+**それぞれが観点を持った出力** を返す。
+
+---
+
+## **3.4 CI（二院制合意）**
+
+Bicameral Model:
+
+* **Clone House**：
+  　再現性・法遵守・確度を重視
+* **Variant House**：
+  　多様性・創発・発見を重視
+
+両者が合意しなければ “憲法モデル” にエスカレーションする。
+単純多数決ではない。
+
+---
+
+## **3.5 SI（Self-Integrity / Self-Healing）**
+
+Metrics:
+
+* KL Divergence Drift
+* z-score anomalies
+* Memory leak %
+* Stale ratio
+* Attestation integrity
+
+閾値を超えれば：
+
+* ロールバック
+* カナリア
+* Agent再起動
+* 安全モード遷移
+
+---
+
+# **4. Minimal Prototype / 最小プロトタイプ**
+
+（Python Mini-XL の M 版に基づく）
+
+**動作の最小ループ：**
+
+```
+prompt → MI (agents)
+       → CI (bicameral consensus)
+       → SI (self-integrity check)
+       → Constitution (if needed)
+       → final output
+```
+
+（コードは前回提示した通り）
+
+---
+
+# **5. Discussion / 考察**
+
+### 5.1
+
+本フレームは “統合安全AIフレームワーク” として
+**小規模でも動き、大規模に拡張できる。**
+
+### 5.2
+
+エージェントを “AI細胞（AI-cells）” として扱う D 型へと自然に成長可能。
+これは“生態系AI（ecosystem-shaped intelligence）”の萌芽。
+
+### 5.3
+
+LAM・SI・CIの三層があることで、
+**自律運用環境での暴走や劣化を極めて起こしにくい設計**となる。
+
+---
+
+# **6. Future Work / 今後の展開**
+
+* D-Type（細胞群知性）への進化
+* 国際ガバナンスモデルとしての Earth-OS XL
+* AI憲法の強化
+* 認知アーキテクチャの階層化
+* P2P合意の実装（安全な BFT 拡張）
+
+---
+
+# **7. Conclusion / 結論**
+
+本研究ノートでは：
+
+* **MI（多重知性）**
+* **SI（自己整合性 & 自己修復）**
+* **CI（二院制合意）**
+* **LAM（自律モード制御）**
+* **例外感知型安全層（Exception-Aware Safety）**
+* **Integrity署名・証跡構造**
+
+これらを **ひとつの統合アーキテクチャ**
+「**Earth-OS Mini-XL**」として提示した。
+
+これは “単体AIの安全化” を超え、
+**長期自律運用 × 群知性 × 文明OS** への
+出発点として利用できる。
