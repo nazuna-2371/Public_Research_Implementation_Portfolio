@@ -231,7 +231,7 @@ Conceptual-Framework
 ---
 
 ```text
-File_name: README.md
+File_name: 03_AI_BEHAVIOR_STRUCTURAL_FRAME_EN.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
@@ -242,7 +242,7 @@ License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512
 Primary_Hash: b04d058a54f92f94c14a76b94e86296e05169b2c3fb41d5e05eb3959df064fa4ae39024ede2932a9684df96695f4592584d84c53e6d5ff314f288f6faf96846f
-Meta_Hash (of Primary Hash): b83bc629b0acefb0d1631540eaf4871b195285f1c2bf2e6097e394f00af7e6796b39e644753d98bbee69ffdd62424d636952dd6962f8d44494abe2371131ca5d
+Meta_Hash (of Primary Hash): bc3b071f941a294adc71e2032366259c0d9a921b4987c4ffd917eeaa3b49b6b8ecd45bcf8ed4ee456d38181ff8722045ae7020595655aa51c5b521a34ffe3bcc
 Integrity-Level: Dual-Hash Verification
 ```
 ---
