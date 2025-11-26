@@ -265,4 +265,4 @@ Algorithm: SHA-512
 Primary_Hash: 04be52143c2fdaf7112d40394010c8bab77ceabb955e2359abab92ad93cb97007d97aa14f492017f41a37e01fb31faca6b19091d99a5da9805d76236346deacc
 Meta_Hash (of Primary Hash): 25ef80193d2f5f942c7dbd3994a8b835eb51ba49c9a2f1f48b66925fea4412c9f252dcc51992cb14d847c83becdf855f426655b1254608c7c2f39a361d715afb
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
-``@
+```
