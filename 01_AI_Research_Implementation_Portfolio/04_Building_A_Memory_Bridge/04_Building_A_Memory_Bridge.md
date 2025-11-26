@@ -216,7 +216,7 @@ Prompt-Design, LLM-Theory, Concept-Model
 ---
 
 ```text
-File_name: 02_Overview_Technology_Description.md
+File_name: 04_Building_A_Memory_Bridge.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
@@ -227,7 +227,7 @@ Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
 Primary_Hash: d1a051fa2a430ffef239cf2ab48aa91303fc1592589acd2faa0ee4972a1a8c37487b4c58d31e408b499cc247fc62b650eb96808cefdabc5d1f0db2a854cf183b
-Meta_Hash (of Primary Hash): a2f8677a5c2d818b36f682a85de3de446091ee068ecf50ce442e0db5372e78d58fad6d12debeef701963eda1c5177aa368aca0e638864c87d4dbd8e76ff5505d
+Meta_Hash (of Primary Hash): bc6666035255a11e50ab4af6420b62fc4c196736c0083232e748e40cb80aae698f8c46855ec12739dd4fd5b14732d2ff21ff5c51606dbfea3945f9335dbf8884
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
 
