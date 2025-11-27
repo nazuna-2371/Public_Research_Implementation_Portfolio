@@ -198,7 +198,7 @@ laying groundwork for academic, educational, and AI-integrated learning systems 
 ---
 
 ```text
-File_name: README_JP.md
+File_name: 07_Syntax-Based_Cognitive_Development_EN.md
 Version: 1.0.0
 
 Signed-By: nazuna-2371
@@ -208,8 +208,8 @@ Last_Updated_Timestamp: 2025-11-26T22:34:10Z
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
-Primary_Hash: 8dd402a9c9307ab21ad3f42333cc1ebfa56f3cac5153c14b131aa3a831613e13db05b783ae5cf43e601f277f41d2af8cc755b2bf295493407905476c81739cf9
-Meta_Hash (of Primary Hash): bc6193f4b8737c97eae447ff05650549f182ce5b33cca221879c0ada6de6c8103c034d8c962390ff269980d75052bc4f494f67a2b678288c4489b0cdb068af87
+Primary_Hash: ab41d07ed71431879b2f3814c8003895d1356afbd50ff3cda2bfc7513cbc3e3c2b20b5a3aa1a3c02c61790f976ce54f63b65d9674bfb157b4b57ff0be498c64d
+Meta_Hash (of Primary Hash): 7c91f1ff3ace7b1dd8d03542b3e214a462376b216aef568713182bc4f596645d23e35c570b78d4b0671aac5443b69a19f3ef50b24f3865445a8164a77135b62d
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
 
