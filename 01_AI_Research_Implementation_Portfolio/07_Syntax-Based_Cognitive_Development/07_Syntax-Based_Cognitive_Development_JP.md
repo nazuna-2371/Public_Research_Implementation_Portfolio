@@ -184,13 +184,13 @@ Version: 1.0.0
 
 Signed-By: nazuna-2371
 Created_Timestamp: 2025-11-27T00:08:22Z
-Last_Updated_Timestamp: 2025-11-26T00:08:22Z
+Last_Updated_Timestamp: 2025-11-27T00:08:22Z
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
 Algorithm: SHA-512  
 Primary_Hash: ec01f07f1ec04e879daae8459f873b8abde3ec6fe9d0eb1fc187528b8ee6969cfdfbad9579c6cd0039e9b7a4a528adcc21de6d87134a8129d0032b49f2acfd93
-Meta_Hash (of Primary Hash): cd2b4f869e9f832f6409fdb76323a23fcc860e69f763632ae477fe7f3bd3cf010eb4c6bb2a06be8e7388f137e2e3ae91acfcf447c09a54ab859da8fe3fde2925
+Meta_Hash (of Primary Hash): 4af02a1f9d06c17ec9437dc02e415c00911fedefff48bf8eb14f5216604d70d076c6c8b0f7d97a33663d2fa92efbe3989d92ef7c1d59a1ea13c70bee771a5931
 Integrity-Level: Dual-Hash Verification (Syntax Layer + Meta Layer)
 ```
 
