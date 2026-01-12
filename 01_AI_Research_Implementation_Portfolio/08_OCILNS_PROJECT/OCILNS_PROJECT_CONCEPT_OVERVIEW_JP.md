@@ -1,7 +1,7 @@
 
 ---
 
-© 2026 nazuna-2371. All rights reserved.（Date: 2026-01-12 JST / 2026-01-12 UTC）  
+© 2026 nazuna-2371. All rights reserved.（Date: 2026-01-13 JST / 2026-01-12 UTC）  
 閲覧は審査・レビュー目的に限り許可する。転載・複製・再配布・派生物作成を禁止する。  
 詳細は ../LICENSE_SELECTIVE_READ_ONLY.txt を参照。
 
@@ -167,16 +167,16 @@ Signed-By: nazuna-2371
 
 Created_Timestamp_JST: 2026-01-12T18:39:08+09:00  
 Created_Timestamp_UTC: 2026-01-12T09:39:08Z  
-Last_Updated_Timestamp_JST: 2026-01-12T19:18:33+09:00  
-Last_Updated_Timestamp_UTC: 2026-01-12T10:18:33Z  
+Last_Updated_Timestamp_JST: 2026-01-13T00:28:32+09:00  
+Last_Updated_Timestamp_UTC: 2026-01-12T15:28:32Z  
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt  
 
 Hash_Algorithm: SHA-512  
 Primary_Hash:
-dd72fbdb34dc8456ab717a59c8f3ae9941379e555614bd09cf480463d23b5cf9b545dc61055748796a91fbd72fcf2c07325d1990e692351f5f9fc4e1069c751c  
+8487f990e50d9f348b8221dd576b2be057c43e89bbe7d1ce99d8bf8cf611a971eec23a5ec1e6d34ff3f8bf1827cb259d3d5ea095c3e3d346ea46c97a5cfd88dd  
 Meta_Hash:
-6a878fcc2834d936ed93364a56172c1687c803a425799611831251f3e14eb65044e6f4e57d962052f16ce5a5b33fccf5f8f2dbbc720bb3ea2897cc4761e5934d  
+e96a63694b32fcd8ec45d6d8ee79c3c4a628d068681ef7056860b0b1d9dcba2f02814c16ac0025c1492f86216faed87f6b53158c85e9ced8b403f6d67078a3f8  
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
