@@ -80,7 +80,7 @@ OCILNSは、対話を「台帳（Ledger）」として表現し、対話の各�
 
 ---
 
-## 5. これは何ではないか（Non-goals / Negative Definition）
+## 5. これは何々ではないか（Non-goals / Negative Definition）
 
 誤解を避けるため、OCILNSの非目的を明確にする。
 
