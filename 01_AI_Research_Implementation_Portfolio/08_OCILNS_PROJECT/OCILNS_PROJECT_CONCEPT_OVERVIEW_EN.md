@@ -3,7 +3,7 @@
 
 © 2026 nazuna-2371. All rights reserved. (Date: 2026-01-12 UTC)  
 Viewing permitted for review only. Redistribution, reproduction, and derivative works are prohibited.  
-See LICENSE_SELECTIVE_READ_ONLY.txt.
+See ../LICENSE_SELECTIVE_READ_ONLY.txt.
 
 ---
 
@@ -12,7 +12,7 @@ See LICENSE_SELECTIVE_READ_ONLY.txt.
 ## Notice on Access / Review Scope (Read-Only)
 This document is published as a **concept paper** for academic / recruitment / review purposes.  
 Reproduction, derivative re-implementation, and secondary processing may be restricted by the project’s **Selective Read-Only** license.  
-See: `LICENSE_SELECTIVE_READ_ONLY.txt` (and any accompanying notices) for the authoritative terms.
+See: `../LICENSE_SELECTIVE_READ_ONLY.txt` (and any accompanying notices) for the authoritative terms.
 
 ---
 
