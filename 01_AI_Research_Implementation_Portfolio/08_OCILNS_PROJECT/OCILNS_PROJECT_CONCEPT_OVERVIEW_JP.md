@@ -3,7 +3,7 @@
 
 © 2026 nazuna-2371. All rights reserved.（Date: 2026-01-12 JST / 2026-01-12 UTC）  
 閲覧は審査・レビュー目的に限り許可する。転載・複製・再配布・派生物作成を禁止する。  
-詳細は LICENSE_SELECTIVE_READ_ONLY.txt を参照。
+詳細は ../LICENSE_SELECTIVE_READ_ONLY.txt を参照。
 
 ---
 
@@ -12,7 +12,7 @@
 **Open Cross-Intelligence Ledger & Neural Synchronization Protocol（Client Library）**
 
 > 本資料は研究段階の概念概要であり、具体仕様・手順・実装詳細は意図的に非公開としている。  
-> 閲覧および取り扱い条件は、同梱の `LICENSE_SELECTIVE_READ_ONLY.txt` を優先する。
+> 閲覧および取り扱い条件は、`../LICENSE_SELECTIVE_READ_ONLY.txt` を優先する。
 
 ---
 
