@@ -73,7 +73,7 @@ This directory contains a collection of documents summarizing original **theorie
 
 ---
 
-## 整合性情報（Dual-Hash 検証）
+## Consistency Information (Dual-Hash Verification)
 
 File_Name: README.md  
 Version: 1.0.0  
@@ -84,8 +84,8 @@ Signed-By: nazuna-2371
 Created_Timestamp_UTC: 2026-03-04T10:52:20Z  
 Created_Timestamp_JST: 2026-03-04T19:52:20+09:00  
 
-Last_Updated_Timestamp_UTC: 2026-03-04T13:06:04Z  
-Last_Updated_Timestamp_JST: 2026-03-04T22:06:04+09:00  
+Last_Updated_Timestamp_UTC: 2026-03-04T13:10:27Z  
+Last_Updated_Timestamp_JST: 2026-03-04T22:10:27+09:00  
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt  
 
@@ -93,7 +93,7 @@ Hash_Algorithm: SHA-512
 Primary_Hash:
 1646781d8101abbddbc8d2c95e9dd5e722ce0a8849610c3ac94316477fb0c2bbeb3e0cab6b6c3cf628546695b278deb340f48a08cafc285c62c9334ac1b5f307  
 Meta_Hash:
-335a79ff1d98fc20572559df68f696d0564855caac4946de3007e11f11e2f26313b25c0703039fa3d42d86503d67aebf21c9c8f0bfb22d8219752c17b134db58  
+1349d3dfa37c7397208b78f6503bbbb3d89cee9fdc468a522fad6e70932bcd5198d32af4d176307d5634ef8d7c5800c393a60067ae4519bc08f69ae8e66f1b3a  
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
