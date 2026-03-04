@@ -197,6 +197,7 @@ Tier分離は、統合と検証接続のための“整理軸”として運用�
 
 File_Name: DCC-Governance-Design-Docs-JP.md  
 Version: 0.1.0  
+Status: Non-Canonical 
 
 Signed-By: nazuna-2371  
 
@@ -209,7 +210,7 @@ Hash_Algorithm: SHA-512
 Primary_Hash:
 ea05ae2d9911d2fadd0f12c1e1271a1d82948d71770d9032d36dc90eb30711339ce6024f43594701a3686fa0ad740450332ce11aefb7965c916c8495ac5f32be  
 Meta_Hash:
-e75720104caa5607843d94c0cc0f30d1044306e0c67b1086e1b178449034d9eb13d29af6b0195b6ac7ad1211d5a54ad7583e6a0e79f2657bf856c95345728b4a  
+c1473de66cb83274b4533b0525485fd1e2428bfecfc080c0bc3da2e5f23f90c12f6d80cc85a8dbb2b24e371242ee07138f25f520a90b67459a73779dfe96de5c  
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
