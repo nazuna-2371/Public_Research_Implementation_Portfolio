@@ -195,14 +195,14 @@ Declarative Closed-Loop Co-Creation Governance Design Theory is:
 
 ## Consistency Information (Dual-Hash Verification)
 
-File_Name: DCC-Governance-Design-Docs-EN.md
-Version: 0.1.0
-Status: Non-Canonical
+File_Name: 01_DCC-Governance-Design-Docs-EN.md  
+Version: 0.1.0  
+Status: Non-Canonical  
 
 Signed-By: nazuna-2371
 
-Created_Timestamp_UTC: 2026-03-04T12:49:02Z
-Last_Updated_Timestamp_UTC: 2026-03-04T12:49:02Z
+Created_Timestamp_UTC: 2026-03-04T12:49:02Z  
+Last_Updated_Timestamp_UTC: 2026-03-04T12:58:03Z
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
@@ -210,7 +210,7 @@ Hash_Algorithm: SHA-512
 Primary_Hash:
 cf9d9c326ad1e5b0f757448c18afe43f5387f09aa7100168767fd5f26db2141f5529b7959c2cb122465ed459b9441c056192f80d0ceb000c856a50591b49a3f7
 Meta_Hash:
-97f5b7b45c89cd359891e8f9357c8da397cd915bdf4ad598dd632682f97536a1f3a4ed95e8e75289ea1ab89593d4a42ba4177e20b44f48bbe2223e73622d1702
+891c192ef2dcd23767fdb26484edb5e38c30c48b5104b2163ce909354a435fcae9989711af7772e916a7cd42eda09f4f8470024fb15779367f2e778e6ebf9ca4
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
