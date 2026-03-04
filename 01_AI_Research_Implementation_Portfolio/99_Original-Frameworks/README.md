@@ -27,7 +27,7 @@
     - 補記：形式化ノート, 補記：マルチLLM共創統治拡張設計論
   - 現在は概要書のみ公開
 
-- 他ドキュメント群は作成出来次第、設置予定
+- 他理論、設計論、ドキュメント群は作成出来次第、設置予定
 
 ---
 
@@ -40,15 +40,15 @@ Status: Canonical
 Signed-By: nazuna-2371  
 
 Created_Timestamp_JST: 2026-03-04T19:52:20+09:00  
-Last_Updated_Timestamp_JST: 2026-03-04T20:11:59+09:00  
+Last_Updated_Timestamp_JST: 2026-03-04T20:17:07+09:00  
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt  
 
 Hash_Algorithm: SHA-512  
 Primary_Hash:
-96617a17532a443cb33d557533bfb31c75c969d351ab011aa6b1286c69131375626365d85c3ea826f577e5d640c7ff98b4bb4991fcac5ca43cc12c31cc5bcf4f  
+f0742d2121e808c969ac9000eb00953d9f8ef4a92d7205793f3d884ce076688dc7bac092d03e4f4b5e9c228defb2bb51ae4d8c375b31f0cc352dfff5612f433e  
 Meta_Hash:
-76f0d4b6814c3542379d4d732ca6e6958bfcf8c52c6756c27adba96118d5e9a272abb1cf4b13a9643f97a7d638f59746b793c921a6d8851a7e1ddc435b79febf  
+3b955086afacdd2051a43f1bff54a85848b423e895db3411c93aeef5dc67ba5005538e37a27d758eed7417800e1026387fb6d67b62a18a74e16080cd8ddf2111  
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
