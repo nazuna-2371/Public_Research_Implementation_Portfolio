@@ -192,3 +192,27 @@ Tier分離は、統合と検証接続のための“整理軸”として運用�
 > **AIとの対話を、成果物中心に構造化し、統合・固定・検証・再投入を閉じたループとして成立させ、統治によって継続可能に運用するための設計論である。**
 
 ---
+
+## 整合性情報（Dual-Hash 検証）
+
+File_Name: DCC-Governance-Design-Docs-JP.md  
+Version: 0.1.0  
+
+Signed-By: nazuna-2371  
+
+Created_Timestamp_JST: 2026-03-04T19:07:59+09:00  
+Created_Timestamp_UTC: 2026-03-04T10:07:59Z  
+Last_Updated_Timestamp_JST: 2026-03-04T19:07:59+09:00  
+Last_Updated_Timestamp_UTC: 2026-03-04T10:07:59Z  
+
+Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt  
+
+Hash_Algorithm: SHA-512  
+Primary_Hash:
+ea05ae2d9911d2fadd0f12c1e1271a1d82948d71770d9032d36dc90eb30711339ce6024f43594701a3686fa0ad740450332ce11aefb7965c916c8495ac5f32be  
+Meta_Hash:
+571fea5ecde3ccac6bc5396e8a0b869e77f83f724d3fcc194bd1ceb3a27d582b2eaceaa5ced97247bd4c0b4786319efa9ba38e1c925c914cc4ec90c398753524  
+
+Integrity-Level: Dual-Hash Verification (Primary + Meta)
+
+---
