@@ -16,7 +16,7 @@
 
 ## 概要
 
-- DCC-Governance-Design（宣言的閉ループ共創統治設計論, Declarative Closed-Loop Co-Creative Governance Design）:
+- 宣言的閉ループ共創統治設計論（Declarative Closed-Loop Co-Creative Governance Design, DCC-Governance-Design）:
   - 人間とLLMの共創プロセス
   - 宣言的統治による出力制御
   - 閉ループ設計による成果物（或いは材料）生成
@@ -26,6 +26,12 @@
     - 目次, 原理定義書, 統合理念定義書, 概要書, 理論体系書, 動作プロセス体系書, ガバナンス書, 統合総覧書 
     - 補記：形式化ノート, 補記：マルチLLM共創統治拡張設計論
   - 現在は概要書のみ公開
+
+- 人中心建設的安全性理論（Human-Centric Constructive Safety Theory, HCCST）:
+  - 編集中
+
+- 安全誘起能力平均回帰理論（Safety-Induced Capability Mean Reversion, SICMR）:
+  - 編集中
 
 - 他理論、設計論、ドキュメント群は作成出来次第、設置予定
 
@@ -40,15 +46,15 @@ Status: Canonical
 Signed-By: nazuna-2371  
 
 Created_Timestamp_JST: 2026-03-04T19:52:20+09:00  
-Last_Updated_Timestamp_JST: 2026-03-04T20:17:07+09:00  
+Last_Updated_Timestamp_JST: 2026-03-04T21:25:22+09:00  
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt  
 
 Hash_Algorithm: SHA-512  
 Primary_Hash:
-f0742d2121e808c969ac9000eb00953d9f8ef4a92d7205793f3d884ce076688dc7bac092d03e4f4b5e9c228defb2bb51ae4d8c375b31f0cc352dfff5612f433e  
+bae54a032cd00b8921a035c6f00832e74807b4901fefc1c710d8951d80bcb8befbc6e50e0bbf14df316186b881cd759924f3d335e5d675573d4efcb2e9ccd05d  
 Meta_Hash:
-3b955086afacdd2051a43f1bff54a85848b423e895db3411c93aeef5dc67ba5005538e37a27d758eed7417800e1026387fb6d67b62a18a74e16080cd8ddf2111  
+c00b515cd91596f567e3f5efe931b8bb2dd002fdc0c53dcd0e94f8f1b23bd5418e222751181dd0d57a208b3b8f5f275087d597336aa0fd3d0f63b66aee49c51e  
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
