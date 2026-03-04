@@ -1,9 +1,7 @@
 
 ---
 
-```text
 ../LICENSE_SELECTIVE_READ_ONLY.txt をご確認ください。
-```
 
 ---
 
@@ -30,7 +28,7 @@
 - 人中心建設的安全性理論（Human-Centric Constructive Safety Theory, HCCST）:
   - 編集中
 
-- 安全誘起能力平均回帰理論（Safety-Induced Capability Mean Reversion, SICMR）:
+- 安全誘起能力平均回帰理論（Safety-Induced Capability Mean Reversion Theory, SCMRT）:
   - 編集中
 
 - 他理論、設計論、ドキュメント群は作成出来次第、設置予定
@@ -46,15 +44,15 @@ Status: Canonical
 Signed-By: nazuna-2371  
 
 Created_Timestamp_JST: 2026-03-04T19:52:20+09:00  
-Last_Updated_Timestamp_JST: 2026-03-04T21:25:22+09:00  
+Last_Updated_Timestamp_JST: 2026-03-04T21:32:10+09:00  
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt  
 
 Hash_Algorithm: SHA-512  
 Primary_Hash:
-bae54a032cd00b8921a035c6f00832e74807b4901fefc1c710d8951d80bcb8befbc6e50e0bbf14df316186b881cd759924f3d335e5d675573d4efcb2e9ccd05d  
+a889362ee9038d3df7af142a0ebbbf61b0346f4dd2fd86adbb6f41044f1a002e38411226480992a69d3f580a28e2569acb1bb97fb0014f0d5d03d6771ef8e25e  
 Meta_Hash:
-c00b515cd91596f567e3f5efe931b8bb2dd002fdc0c53dcd0e94f8f1b23bd5418e222751181dd0d57a208b3b8f5f275087d597336aa0fd3d0f63b66aee49c51e  
+023f5c8668002573ab7a16ead987f7cd20dc99a0f4b4ff1f9732a9902e3529d8a039749251e5742ced19e3a93525035742960abc75edda427ec0c614ba38b9bc  
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
