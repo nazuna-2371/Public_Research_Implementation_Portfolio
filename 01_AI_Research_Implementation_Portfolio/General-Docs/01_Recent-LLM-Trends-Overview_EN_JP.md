@@ -395,7 +395,7 @@ Therefore, recent LLM developments should be understood not simply as performanc
 
 ## Consistency Information (Dual-Hash Verification)
 
-File_Name: 01_Recent-LLM-Trends-Overview.md  
+File_Name: 01_Recent-LLM-Trends-Overview_EN_JP.md  
 Version: 0.1.0  
 Status: Non-Canonical  
 
@@ -404,8 +404,8 @@ Signed-By: nazuna-2371
 Created_Timestamp_UTC: 2026-03-06T03:06:45Z  
 Created_Timestamp_JST: 2026-03-06T12:06:45+09:00  
 
-Last_Updated_Timestamp_UTC: 2026-03-06T03:06:45Z  
-Last_Updated_Timestamp_JST: 2026-03-06T12:06:45+09:00 
+Last_Updated_Timestamp_UTC: 2026-03-06T03:09:44Z  
+Last_Updated_Timestamp_JST: 2026-03-06T12:09:44+09:00 
 
 Linked_License: ../LICENSE_SELECTIVE_READ_ONLY.txt
 
@@ -413,7 +413,7 @@ Hash_Algorithm: SHA-512
 Primary_Hash:
 257567bab4a64c63349e559b129a7a4a6c9b2e1145c7afb75db10012496ed75c524ae6af584aaaa4ba41c00ad5cd548ccb682e0ae66818f8f98dc957d52e06ef
 Meta_Hash:
-17778c71a7472882bb542e2feabb84f0bc763db48d4034e78e7db9a979866b7541ad0c1b1eaaa9d7d6010758815416e98dbd2a9450bc180233b40e5297771667
+bb2b0819f2f190334a074ac0b1e41d345cb37ced39cbe26f835f74e769fdb35ef0b4837336f89db9271c34c5fe1d4b92ae6b8d912fbcdd97205ccf461321bf23
 
 Integrity-Level: Dual-Hash Verification (Primary + Meta)
 
